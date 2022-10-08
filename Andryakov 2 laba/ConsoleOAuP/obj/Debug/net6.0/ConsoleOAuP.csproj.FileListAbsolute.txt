@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\obj\Debug\net6.0\ConsoleOAuP.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\obj\Debug\net6.0\ConsoleOAuP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\obj\Debug\net6.0\ConsoleOAuP.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\obj\Debug\net6.0\ConsoleOAuP.AssemblyInfo.cs
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\obj\Debug\net6.0\ConsoleOAuP.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\bin\Debug\net6.0\ConsoleOAuP.exe
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\bin\Debug\net6.0\ConsoleOAuP.deps.json
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\bin\Debug\net6.0\ConsoleOAuP.runtimeconfig.json
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\bin\Debug\net6.0\ConsoleOAuP.dll
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\bin\Debug\net6.0\ConsoleOAuP.pdb
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\obj\Debug\net6.0\ConsoleOAuP.dll
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\obj\Debug\net6.0\refint\ConsoleOAuP.dll
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\obj\Debug\net6.0\ConsoleOAuP.pdb
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\obj\Debug\net6.0\ConsoleOAuP.genruntimeconfig.cache
+C:\Users\ПК\Desktop\LR№2\ConsoleOAuP\obj\Debug\net6.0\ref\ConsoleOAuP.dll
